@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "API Server",
+  "main": "index.json",
+  "scripts": {
+    "serve": "json-server db.json --routes routes.json --middlewares middlewares/auth.js middlewares/statistics.js --read-only"
+  },
+  "author": "dev@unyc.io <Unyc Developers>",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0",
+    "keycloak-connect": "^19.0.1"
+  }
+}

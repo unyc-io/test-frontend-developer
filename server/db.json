@@ -1,0 +1,487 @@
+{
+    "bars": [
+        {
+            "id": 1,
+            "name": "Rez-de-chaussé"
+        },
+        {
+            "id": 2,
+            "name": "1er étage"
+        },
+        {
+            "id": 3,
+            "name": "Cave"
+        },
+        {
+            "id": 4,
+            "name": "Terrasse"
+        },
+        {
+            "id": 5,
+            "name": "Scène"
+        },
+        {
+            "id": 6,
+            "name": "Scène Terasse"
+        },
+        {
+            "id": 7,
+            "name": "Toît"
+        }
+    ],
+    "stocks": [
+        {
+            "barId": 1,
+            "referenceId": 1,
+            "stock": 8
+        },
+        {
+            "barId": 1,
+            "referenceId": 2,
+            "stock": 3
+        },
+        {
+            "barId": 1,
+            "referenceId": 3,
+            "stock": 25
+        },
+        {
+            "barId": 1,
+            "referenceId": 4,
+            "stock": 52
+        },
+        {
+            "barId": 1,
+            "referenceId": 5,
+            "stock": 22
+        },
+        {
+            "barId": 1,
+            "referenceId": 6,
+            "stock": 3
+        },
+        {
+            "barId": 1,
+            "referenceId": 7,
+            "stock": 53
+        },
+        {
+            "barId": 1,
+            "referenceId": 8,
+            "stock": 23
+        },
+        {
+            "barId": 1,
+            "referenceId": 9,
+            "stock": 52
+        },
+        {
+            "barId": 1,
+            "referenceId": 10,
+            "stock": 23
+        },
+        {
+            "barId": 1,
+            "referenceId": 11,
+            "stock": 15
+        },
+        {
+            "barId": 2,
+            "referenceId": 1,
+            "stock": 0
+        },
+        {
+            "barId": 2,
+            "referenceId": 2,
+            "stock": 6
+        },
+        {
+            "barId": 2,
+            "referenceId": 3,
+            "stock": 0
+        },
+        {
+            "barId": 2,
+            "referenceId": 4,
+            "stock": 5
+        },
+        {
+            "barId": 2,
+            "referenceId": 5,
+            "stock": 7
+        },
+        {
+            "barId": 2,
+            "referenceId": 6,
+            "stock": 0
+        },
+        {
+            "barId": 2,
+            "referenceId": 7,
+            "stock": 0
+        },
+        {
+            "barId": 2,
+            "referenceId": 8,
+            "stock": 0
+        },
+        {
+            "barId": 2,
+            "referenceId": 9,
+            "stock": 0
+        },
+        {
+            "barId": 2,
+            "referenceId": 10,
+            "stock": 0
+        },
+        {
+            "barId": 2,
+            "referenceId": 11,
+            "stock": 0
+        },
+        {
+            "barId": 3,
+            "referenceId": 1,
+            "stock": 4
+        },
+        {
+            "barId": 3,
+            "referenceId": 2,
+            "stock": 15
+        },
+        {
+            "barId": 3,
+            "referenceId": 3,
+            "stock": 22
+        },
+        {
+            "barId": 3,
+            "referenceId": 4,
+            "stock": 0
+        },
+        {
+            "barId": 3,
+            "referenceId": 5,
+            "stock": 0
+        },
+        {
+            "barId": 3,
+            "referenceId": 6,
+            "stock": 0
+        },
+        {
+            "barId": 3,
+            "referenceId": 7,
+            "stock": 24
+        },
+        {
+            "barId": 3,
+            "referenceId": 8,
+            "stock": 0
+        },
+        {
+            "barId": 3,
+            "referenceId": 9,
+            "stock": 4
+        },
+        {
+            "barId": 3,
+            "referenceId": 10,
+            "stock": 14
+        },
+        {
+            "barId": 3,
+            "referenceId": 11,
+            "stock": 0
+        },
+        {
+            "barId": 4,
+            "referenceId": 1,
+            "stock": 5
+        },
+        {
+            "barId": 4,
+            "referenceId": 2,
+            "stock": 5
+        },
+        {
+            "barId": 4,
+            "referenceId": 3,
+            "stock": 34
+        },
+        {
+            "barId": 4,
+            "referenceId": 4,
+            "stock": 0
+        },
+        {
+            "barId": 4,
+            "referenceId": 5,
+            "stock": 13
+        },
+        {
+            "barId": 4,
+            "referenceId": 6,
+            "stock": 0
+        },
+        {
+            "barId": 4,
+            "referenceId": 7,
+            "stock": 22
+        },
+        {
+            "barId": 4,
+            "referenceId": 8,
+            "stock": 15
+        },
+        {
+            "barId": 4,
+            "referenceId": 9,
+            "stock": 0
+        },
+        {
+            "barId": 4,
+            "referenceId": 10,
+            "stock": 0
+        },
+        {
+            "barId": 4,
+            "referenceId": 11,
+            "stock": 0
+        },
+        {
+            "barId": 5,
+            "referenceId": 1,
+            "stock": 12
+        },
+        {
+            "barId": 5,
+            "referenceId": 2,
+            "stock": 4
+        },
+        {
+            "barId": 5,
+            "referenceId": 3,
+            "stock": 10
+        },
+        {
+            "barId": 5,
+            "referenceId": 4,
+            "stock": 8
+        },
+        {
+            "barId": 5,
+            "referenceId": 5,
+            "stock": 22
+        },
+        {
+            "barId": 5,
+            "referenceId": 6,
+            "stock": 5
+        },
+        {
+            "barId": 5,
+            "referenceId": 7,
+            "stock": 30
+        },
+        {
+            "barId": 5,
+            "referenceId": 8,
+            "stock": 15
+        },
+        {
+            "barId": 5,
+            "referenceId": 9,
+            "stock": 8
+        },
+        {
+            "barId": 5,
+            "referenceId": 10,
+            "stock": 7
+        },
+        {
+            "barId": 5,
+            "referenceId": 11,
+            "stock": 30
+        },
+        {
+            "barId": 7,
+            "referenceId": 1,
+            "stock": 120
+        },
+        {
+            "barId": 7,
+            "referenceId": 2,
+            "stock": 40
+        },
+        {
+            "barId": 7,
+            "referenceId": 3,
+            "stock": 10
+        },
+        {
+            "barId": 7,
+            "referenceId": 4,
+            "stock": 20
+        },
+        {
+            "barId": 7,
+            "referenceId": 5,
+            "stock": 20
+        },
+        {
+            "barId": 7,
+            "referenceId": 6,
+            "stock": 40
+        },
+        {
+            "barId": 7,
+            "referenceId": 7,
+            "stock": 10
+        },
+        {
+            "barId": 7,
+            "referenceId": 8,
+            "stock": 10
+        },
+        {
+            "barId": 7,
+            "referenceId": 9,
+            "stock": 30
+        },
+        {
+            "barId": 7,
+            "referenceId": 10,
+            "stock": 40
+        },
+        {
+            "barId": 7,
+            "referenceId": 11,
+            "stock": 30
+        },
+        {
+            "barId": 7,
+            "referenceId": 1,
+            "stock": 120
+        },
+        {
+            "barId": 7,
+            "referenceId": 2,
+            "stock": 40
+        },
+        {
+            "barId": 7,
+            "referenceId": 3,
+            "stock": 10
+        },
+        {
+            "barId": 7,
+            "referenceId": 4,
+            "stock": 20
+        },
+        {
+            "barId": 7,
+            "referenceId": 5,
+            "stock": 20
+        },
+        {
+            "barId": 7,
+            "referenceId": 6,
+            "stock": 20
+        },
+        {
+            "barId": 7,
+            "referenceId": 7,
+            "stock": 10
+        },
+        {
+            "barId": 7,
+            "referenceId": 8,
+            "stock": 10
+        },
+        {
+            "barId": 7,
+            "referenceId": 9,
+            "stock": 30
+        },
+        {
+            "barId": 7,
+            "referenceId": 10,
+            "stock": 40
+        },
+        {
+            "barId": 7,
+            "referenceId": 11,
+            "stock": 1
+        }
+    ],
+    "references": [
+        {
+            "id": 1,
+            "ref": "affligem_blonde",
+            "name": "Affligem blonde",
+            "description": "Réputée et consommée partout en France depuis quelques années, l'Affligem Blonde a réussi à s'imposer comme une référence parmi les bières blondes d'abbaye belge en France."
+        },
+        {
+            "id": 2,
+            "ref": "moretti",
+            "name": "birra Moretti",
+            "description": "La birra Moretti est une bière italienne très populaire. C'est également un mythe en Italie, avec son étiquette représentant un moustachu en costume et chapeau buvant une bière (surnommé \"Moustache d'or\"). On surnomme donc ainsi cette bière : la Baffo d'oro."
+        },
+        {
+            "id": 3,
+            "ref": "delirium_tremens",
+            "name": "Delirium tremens",
+            "description": "Cette bière belge forte a une bouteille en céramique facilement identifiable. Dans le verre, on retrouve une robe blonde dorée légèrement troublée qui se coiffe d'une mousse blanche."
+        },
+        {
+            "id": 4,
+            "ref": "jeanlain_ambree",
+            "name": "Jeanlain ambrée",
+            "description": "Avec ses parfums d'automne maltés, ses arômes de fleurs et de caramel, de fruits cuits (une pointe de pruneau), et de malts légèrement grillés, cette Jenlain dévoile une forte personnalité."
+        },
+        {
+            "id": 5,
+            "ref": "guiness",
+            "name": "Guiness",
+            "description": "La Guinness est une stout, une bière noire coiffée d'une mousse blanche, connue mondialement pour sa saveur et son aspect si particuliers."
+        },
+        {
+            "id": 6,
+            "ref": "chouffe",
+            "name": "La chouffe",
+            "description": "La chouffe est une belgian Pale Ale blonde non filtrée et refermentée. Derrière une robe couleur or, on découvre avec enchantement un bouquet aromatique à la fois fruitée et épicé."
+        },
+        {
+            "id": 7,
+            "ref": "duchesse_anne_triple",
+            "name": "Duchesse Anne triple",
+            "description": "C'est en l'honneur de la Duchesse Anne que la Brasserie Lancelot a créé cette bière blonde, pur malt. A la fois rafraîchissante et forte (7,5% vol), elle offre des saveurs raffinées de caramel, de raisin sec et des arômes de miel."
+        },
+        {
+            "id": 8,
+            "ref": "kasteel_rouge",
+            "name": "Kasteel rouge",
+            "description": "Petite soeur fruitée de la gamme Kasteel, la Kasteel Rouge est un mélange de la traditionnelle Kasteel Brune avec une bière aux cerises du Nord ayant mûri pendant une période d'au moins six mois."
+        },
+        {
+            "id": 9,
+            "ref": "1664_blanche",
+            "name": "1664 blanche",
+            "description": "La bière 1664 Blanc est une bière blanche aromatisée citron et coriandre."
+        },
+        {
+            "id": 10,
+            "ref": "cuvee_des_trolls",
+            "name": "La cuvée des trolls",
+            "description": "La Cuvée des Trolls est une bière brassée aux Brasseries Dubuisson Frères à Pipaix en Belgique et également par les micro-brasseries Brasse-Temps de Louvain-la-Neuve et de Mons."
+        },
+        {
+            "id": 11,
+            "ref": "leffe_blonde",
+            "name": "Leffe blonde",
+            "description": "Leffe Blonde est une authentique bière blonde d'abbaye avec une légère pointe d'amertume. Leffe Blonde est la bière de dégustation par excellence: elle accompagnera avec légèreté vos repas et leur donnera une touche de saveur supplémentaire."
+        }
+    ]
+}
