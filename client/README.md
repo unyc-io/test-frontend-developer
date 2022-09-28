@@ -6,7 +6,6 @@
 - Utiliser Vue.js et vue-router
 - Coder en Vanilla ou TypeScript
 - Utiliser les bonnes pratiques et conventions de Vue.js
-- **Coder le moins de lignes possible**
 
 
 Cela nous permettra d'évaluer ton degré de compréhension de spécifications, ta capacité à lire et interpréter la documentation, et la rigueur et la qualité de ton code. Bien entendu, ton niveau d'expérience sur Vue.js sera pris en compte !
