@@ -1,6 +1,6 @@
 ### CONSIGNES
 
-- Le design doit correspondre au maximum aux représentations Figma: https://www.figma.com/file/xlljd0BFX45cy8pPrnWGPh/Test-Technique-d%C3%A9veloppeur-front-end-(Copy)?node-id=209%3A32921
+- Le design doit correspondre au maximum aux représentations Figma: [https://www.figma.com/file/xlljd0BFX45cy8pPrnWGPh/Test-Technique-d%C3%A9veloppeur-front-end-(Copy)?node-id=209%3A32921](https://www.figma.com/file/L4FBCG0cUFFlXLAArpkek9/Test-Technique-d%C3%A9veloppeur-front-end-(Partage)?type=design&node-id=209-32921&mode=design&t=A0yuC1nFQ07Q2EZ4-11)
 (LIEN FIGMA)
 - L'application doit communiquer avec l'API [json-server](https://github.com/typicode/json-server#table-of-contents) se trouvant dans le répertoire **server/** (http://localhost:3000/)
 - Utiliser Vue.js et vue-router
